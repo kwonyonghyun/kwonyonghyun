@@ -2,11 +2,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwonyonghyun&show_icons=true&theme=radical)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-#6DB33F?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+[![스프링 부트](https://img.shields.io/badge/Spring%20Boot-2.5.3-brightgreen)](https://spring.io/projects/spring-boot)
+[![자바](https://img.shields.io/badge/Java-11-blue)](https://www.oracle.com/java/technologies/javase-downloads.html)
+[![파이토치](https://img.shields.io/badge/PyTorch-1.10.0-orange)](https://pytorch.org/)
+[![파이썬](https://img.shields.io/badge/Python-3.8-blue)](https://www.python.org/downloads/)
+[![C++](https://img.shields.io/badge/C%2B%2B-17-red)](https://en.cppreference.com/w/cpp/17)
+
 
 I am a student studying computer science at INHA UNIV
 
