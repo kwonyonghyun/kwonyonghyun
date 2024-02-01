@@ -13,9 +13,6 @@ Programming Language: [![자바](https://img.shields.io/badge/Java-11-blue)](htt
 
 I am a student studying computer science at INHA UNIV
 
-I'm currently learning about computer science,data analysis and statistics
-I'm looking for help with making my first data analysis project
-
 How to reach me: rnjs990523@naver.com
 
 
