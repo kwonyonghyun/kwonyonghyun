@@ -14,7 +14,7 @@ Programming Language: [![자바](https://img.shields.io/badge/Java-11-blue)](htt
 
 I am a student studying computer science at INHA UNIV
 
-Spring-kafka/Spring-security contributer
+Spring-kafka/Spring-security/Apache kafka contributer
 
 How to reach me: rnjs990523@naver.com
 
