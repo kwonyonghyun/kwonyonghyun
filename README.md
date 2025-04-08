@@ -34,5 +34,3 @@
 - Email: rnjs990523@naver.com
 - Blog: [https://kwon-record.tistory.com](https://kwon-record.tistory.com)
 - GitHub: [https://github.com/kwonyonghyun](https://github.com/kwonyonghyun)
-
-[![코드트리|실력진단-12223695](https://banner.codetree.ai/v1/banner/12223695)](https://www.codetree.ai/profiles/12223695)
