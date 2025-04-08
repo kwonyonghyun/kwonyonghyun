@@ -1,6 +1,10 @@
 # 권용현 (Yonghyun Kwon) 
 > 사용자 경험 향상과 시스템 성능 개선에 집중하는 백엔드 개발자
 
+## 🎓 Education & Programs
+- 인하대학교 (2022.03 ~ 2026.02)
+- 소프트웨어 마에스트로 16기 (2025)
+
 ## 📚 Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
