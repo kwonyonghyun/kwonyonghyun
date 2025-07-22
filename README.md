@@ -21,6 +21,7 @@
 ## 🏆 Awards
 - 디지랩 챌린지: 기술로 바꾸는 세상 대상
 - 2024 AWS와 함께하는 소중한 상명 해커톤 우수상
+- 인하대학교 컴퓨터공학과 캡스톤디자인(종합설계교과목) 성과발표회 대상
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kwonyonghyun&show_icons=true&theme=radical)
